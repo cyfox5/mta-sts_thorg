@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
 mx: mail.therapiedelatourelle.org
-mx: 62.202.23.158
 max_age: 604800
